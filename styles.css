@@ -1,6 +1,12 @@
 h1{
-  color: pink;
+  color: purple;
 }
 body{
   background-color: #0099ff;
+}
+title{
+  color: #d6c5ab;
+}
+head{
+  color: white;
 }
