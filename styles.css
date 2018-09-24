@@ -2,11 +2,14 @@ h1{
   color: purple;
 }
 body{
-  background-color: #0099ff;
+  background-color: #af99ff;
 }
 title{
   color: #d6c5ab;
 }
-head{
-  color: white;
+header{
+  color: pink;
+}
+.warning{
+  color: lime;
 }
